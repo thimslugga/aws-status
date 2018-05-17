@@ -34,7 +34,7 @@ aws-status-list --help
 And an other one to check the status of a specific feed:
 ```
 #check EC2 in us-east-1
-aws-status-check http://status.aws.amazon.com/rss/ec2-us-east-2.rss
+aws-status-check http://status.aws.amazon.com/rss/ec2-us-east-1.rss
 ```
 
 Thanks
